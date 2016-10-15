@@ -1,0 +1,24 @@
+{
+  "name": "week11-hangman",
+  "version": "1.0.0",
+  "description": "node hangman",
+  "main": "main.js",
+  "scripts": {
+    "test": "yee"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skurtz92/week11-hangman.git"
+  },
+  "keywords": [
+    "node",
+    "letter",
+    "main"
+  ],
+  "author": "Sydney Kurtz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skurtz92/week11-hangman/issues"
+  },
+  "homepage": "https://github.com/skurtz92/week11-hangman#readme"
+}
